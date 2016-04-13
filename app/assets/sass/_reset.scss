@@ -1,0 +1,46 @@
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+menu,
+nav,
+section,
+summary {
+    display: block
+}
+*,
+:after,
+:before {
+    box-sizing: border-box
+}
+body,
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%
+}
+ol,
+ul {
+    list-style-type: none;
+    margin-top: 0
+}
+ol ol,
+ol ul,
+ul ol,
+ul ul {
+    margin-bottom: 0
+}
+
+ol,
+ul {
+    margin-bottom: 10px
+}
+
+body {
+    -ms-overflow-style: scrollbar
+}
