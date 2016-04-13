@@ -1,0 +1,22 @@
+{
+  "name": "myProject",
+  "authors": [
+    "Phil <phil@metrodesk.com>"
+  ],
+  "description": "Test app",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
